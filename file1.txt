@@ -1,1 +1,1 @@
-Added a new line to the file1
+This is to Create the project for git which performs the operations like add, commit, push & pull.
